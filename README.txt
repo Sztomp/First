@@ -1,0 +1,1 @@
+Az első projekt amit a githubon keresztül csinálok a Codeberryvel.
